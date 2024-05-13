@@ -23,8 +23,9 @@ idna==3.7
 kiwisolver==1.4.5
 matplotlib==3.4.3
 mysql-connector==2.2.9
+mysql-connector-python==8.4.0
 mysqlclient==2.2.4
-numpy==1.24.4
+numpy==1.24.3
 oauthlib==3.2.2
 packaging==24.0
 pillow==10.3.0
