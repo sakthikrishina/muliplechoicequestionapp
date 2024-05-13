@@ -23,7 +23,7 @@ idna==3.7
 kiwisolver==1.4.5
 matplotlib==3.4.3
 mysqlclient==2.2.4
-numpy==1.26.4
+numpy==1.24.3
 oauthlib==3.2.2
 packaging==24.0
 pillow==10.3.0
